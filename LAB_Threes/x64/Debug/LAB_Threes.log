@@ -1,0 +1,7 @@
+﻿  BinaryThree.cpp
+  main.cpp
+C:\Users\minne\source\repos\LAB_Threes\LAB_Threes\main.cpp(254,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\minne\source\repos\LAB_Threes\LAB_Threes\main.cpp(266,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\minne\source\repos\LAB_Threes\LAB_Threes\main.cpp(278,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  LAB_Threes.vcxproj -> C:\Users\minne\source\repos\LAB_Threes\x64\Debug\LAB_Threes.exe
